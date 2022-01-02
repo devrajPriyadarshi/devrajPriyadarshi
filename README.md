@@ -5,11 +5,11 @@
 A Undergraduate student of Electronics and Electrical Communications at IIT Kharagpur. I'm currently working to learn more in fields of Robotics and Software Development 💻.
 
 ##### Technologies & Tools :
-![](https://img.shields.io/badge/OS-Ubuntu--18.04-ffffff?style=flat&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/ROS-Melodic-ffffff?style=flat&logo=ROS&logoColor=white)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-ffffff?style=flat&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-ffffff?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-C++-ffffff?style=flat&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/OS-Ubuntu--18.04-258f76?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/ROS-Melodic-258f76?style=flat&logo=ROS&logoColor=white)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-258f76?style=flat&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-258f76?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-C++-258f76?style=flat&logo=cplusplus&logoColor=white)
 
 ##### Connect with me on : 
 - [LinkedIn](www.linkedin.com/in/devraj-priyadarshi)
@@ -17,8 +17,8 @@ A Undergraduate student of Electronics and Electrical Communications at IIT Khar
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devrajPriyadarshi&show_icons=true&theme=nord)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devrajPriyadarshi&show_icons=true&theme=nord)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devrajPriyadarshi&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devrajPriyadarshi&show_icons=true&theme=gotham)
 
 
 <!---
