@@ -12,7 +12,7 @@ A Undergraduate student of Electronics and Electrical Communications at IIT Khar
 ![](https://img.shields.io/badge/Code-C++-258f76?style=flat&logo=cplusplus&logoColor=white)
 
 ##### Connect with me on : 
-- [LinkedIn](www.linkedin.com/in/devraj-priyadarshi)
+- [LinkedIn](https://www.linkedin.com/in/devraj-priyadarshi)
 - [Twitter](https://twitter.com/devraj5300)
 - [Facebook](https://www.facebook.com/devraj.priyadarshi.96/)
 
