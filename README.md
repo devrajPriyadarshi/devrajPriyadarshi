@@ -2,7 +2,7 @@
 
 ---
 
-A Undergraduate student of Electronics and Electrical Communications at IIT Kharagpur. I'm currently working to learn more in fields of Robotics and Software Development 💻.
+A Undergraduate student of Electronics and Electrical Communications at IIT Kharagpur. I'm currently working to learn more in fields of Robotics and Computer Vision 💻.
 <!---
 ##### Technologies & Tools :
 ![](https://img.shields.io/badge/OS-Ubuntu--18.04-258f76?style=flat&logo=ubuntu&logoColor=white)
