@@ -17,11 +17,12 @@ An Undergraduate student of at IIT Kharagpur. I'm currently working to learn mor
 - [Facebook](https://www.facebook.com/devraj.priyadarshi.96/)
 
 ---
-<!---
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devrajPriyadarshi&show_icons=true&theme=gotham)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devrajPriyadarshi&show_icons=true&theme=gotham)
 
+<!--- 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devrajPriyadarshi&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devrajPriyadarshi&show_icons=true&theme=gotham&layout=compact)
 --->
+
 <!---
 devrajPriyadarshi/devrajPriyadarshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
